@@ -1,4 +1,4 @@
-# PRODIGY_ML_03 - Task 3
+# PRODIGY_DS_03 - Task 3
 ## Project
 Decision Tree Classifier for Customer Purchase Prediction
 ## Objective
